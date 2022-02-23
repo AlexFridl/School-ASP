@@ -1,0 +1,17 @@
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\EfDataAccess\bin\Debug\netcoreapp3.1\EfDataAccess.deps.json
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\EfDataAccess\bin\Debug\netcoreapp3.1\EfDataAccess.dll
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\EfDataAccess\obj\Debug\netcoreapp3.1\EfDataAccess.csprojAssemblyReference.cache
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\EfDataAccess\obj\Debug\netcoreapp3.1\EfDataAccess.AssemblyInfoInputs.cache
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\EfDataAccess\obj\Debug\netcoreapp3.1\EfDataAccess.AssemblyInfo.cs
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\EfDataAccess\bin\Debug\netcoreapp3.1\EfDataAccess.runtimeconfig.json
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\EfDataAccess\bin\Debug\netcoreapp3.1\EfDataAccess.runtimeconfig.dev.json
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\EfDataAccess\obj\Debug\netcoreapp3.1\EfDataAccess.genruntimeconfig.cache
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\EfDataAccess\bin\Debug\netcoreapp3.1\EfDataAccess.pdb
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\EfDataAccess\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\EfDataAccess\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\EfDataAccess\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\EfDataAccess\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\EfDataAccess\obj\Debug\netcoreapp3.1\EfDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\EfDataAccess\obj\Debug\netcoreapp3.1\EfDataAccess.csproj.CopyComplete
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\EfDataAccess\obj\Debug\netcoreapp3.1\EfDataAccess.dll
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\EfDataAccess\obj\Debug\netcoreapp3.1\EfDataAccess.pdb

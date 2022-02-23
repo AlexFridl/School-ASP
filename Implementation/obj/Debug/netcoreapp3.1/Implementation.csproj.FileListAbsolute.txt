@@ -1,0 +1,16 @@
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\Implementation\bin\Debug\netcoreapp3.1\Implementation.deps.json
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\Implementation\bin\Debug\netcoreapp3.1\Implementation.dll
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\Implementation\bin\Debug\netcoreapp3.1\Implementation.pdb
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\Implementation\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\Implementation\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\Implementation\bin\Debug\netcoreapp3.1\EfDataAccess.dll
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\Implementation\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\Implementation\bin\Debug\netcoreapp3.1\EfDataAccess.pdb
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\Implementation\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\Implementation\obj\Debug\netcoreapp3.1\Implementation.csprojAssemblyReference.cache
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\Implementation\obj\Debug\netcoreapp3.1\Implementation.AssemblyInfoInputs.cache
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\Implementation\obj\Debug\netcoreapp3.1\Implementation.AssemblyInfo.cs
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\Implementation\obj\Debug\netcoreapp3.1\Implementation.csproj.CopyComplete
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\Implementation\obj\Debug\netcoreapp3.1\Implementation.dll
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\Implementation\obj\Debug\netcoreapp3.1\Implementation.pdb
+C:\Users\Aleksandra\source\repos\aleksandra_fridl_asp_311_14\Implementation\obj\Debug\netcoreapp3.1\Implementation.csproj.CoreCompileInputs.cache

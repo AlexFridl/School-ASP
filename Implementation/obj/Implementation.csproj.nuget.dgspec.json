@@ -1,0 +1,288 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\Implementation\\Implementation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Aleksandra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aleksandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Aleksandra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aleksandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\EfDataAccess\\EfDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\EfDataAccess\\EfDataAccess.csproj",
+        "projectName": "EfDataAccess",
+        "projectPath": "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\EfDataAccess\\EfDataAccess.csproj",
+        "packagesPath": "C:\\Users\\Aleksandra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\EfDataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aleksandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\Application\\Application.csproj"
+              },
+              "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0-preview.7.20365.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0-preview.7.20365.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0-preview.7.20365.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0-preview.7.20365.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\Implementation\\Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\Implementation\\Implementation.csproj",
+        "projectName": "Implementation",
+        "projectPath": "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\Implementation\\Implementation.csproj",
+        "packagesPath": "C:\\Users\\Aleksandra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aleksandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\Application\\Application.csproj"
+              },
+              "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\EfDataAccess\\EfDataAccess.csproj": {
+                "projectPath": "C:\\Users\\Aleksandra\\source\\repos\\aleksandra_fridl_asp_311_14\\EfDataAccess\\EfDataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.0.0-preview5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
